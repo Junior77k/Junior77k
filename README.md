@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou Junior! 👋
 
 <div align="center">
   <img src="https://demolab.com" alt="Typing SVG" />
