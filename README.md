@@ -27,10 +27,9 @@
 ---
 
 ### 🎯 Meus Projetos Principais
-*aqui você lista os seus repositórios de estudo*
 
-- ☕ **[Nome do Projeto 1](https://github.com/Junior77k/Lista-de-tarefa)**: Sistema de gerenciamento bancário feito em Java puro para praticar conceitos de POO (Herança, Polimorfismo, Encapsulamento).
-- 🌱 **[Nome do Projeto 2](https://github.com/Junior77k/Gerador-de-senha)**: API REST simples criada com Spring Boot para cadastro e manipulação de dados de usuários.
+- ☕ **[Lista de Tarefas](https://github.com)**: Sistema para praticar conceitos fundamentais de Java e lógica de programação.
+- 🌱 **[Gerador de Senha](https://github.com)**: Aplicação focada em manipulação de dados e segurança lógica.
 
 ---
 
@@ -44,5 +43,5 @@
 ---
 
 ### 💬 Onde me encontrar
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/gilson-menezes-9871883b2/)
-[![E-mail](https://shields.io)](jjuninn2007@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![E-mail](https://shields.io)](mailto:jjuninn2007@gmail.com)
