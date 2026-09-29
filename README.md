@@ -33,11 +33,11 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Atividades no GitHub
 
 <div align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+  <img height="160em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://vercel.app" alt="Linguagens mais usadas" />
 </div>
 
 ---
