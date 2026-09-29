@@ -1,4 +1,4 @@
-# Olá, eu sou Junior! 👋
+# Olá, eu sou o Junior! 👋
 
 <div align="center">
   <img src="https://demolab.com" alt="Typing SVG" />
@@ -16,17 +16,13 @@
 ### 🛠️ Minha Stack & Ferramentas em Evolução
 
 **Linguagens & Core:**
-![Java](https://shields.io)
-![SQL](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" />
 
 **Frameworks & Back-End (Em Progresso):**
-![Spring](https://shields.io)
-![Hibernate](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" />
 
 **Ferramentas de Desenvolvimento:**
-![Git](https://shields.io)
-![IntelliJ IDEA](https://shields.io)
-![Docker](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
