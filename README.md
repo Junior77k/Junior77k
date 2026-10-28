@@ -1,14 +1,5 @@
 # Olá, eu sou o Junior! 👋
 
-<div align="center">
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+programação;Focado+em+Java;Estudando+Back-End;Sempre+aprendendo+algo+novo"
-    alt="Typing SVG"
-  />
-
-</div>
-
 ---
 
 ## 🚀 Sobre Mim
